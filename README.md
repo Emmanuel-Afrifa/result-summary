@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Results summary component component solution
 
 This is a solution to the [Result Summary challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -18,8 +18,8 @@ This is a solution to the [Result Summary challenge on Frontend Mentor](https://
 ![Screenshot of the webpage](./images/screenshot.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/result-summary)
+- [Deployed site](https://result-summary-frontend.netlify.app/)
 
 ## Process
 ### Tools Used
