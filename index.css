@@ -200,6 +200,7 @@ body {
     .right-sub-container {
         width: 100%;
         background-color: white;
+        border-bottom-left-radius: 30px;
     }
 
     .right-sub-container__button {
